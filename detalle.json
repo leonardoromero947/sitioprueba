@@ -1,0 +1,62 @@
+{
+    "httpResponse":200,
+    "responseCode":"RSP_000",
+    "responseMessage":"Operación exitosa.",
+    "exceptionMessage":"Operación exitosa.",
+    "responseObject":{
+        "miga":[
+            
+        ],
+        "grupos":[
+            {
+                "idGrupo":"C13FE85A-25F2-4124-8F9B-C27B2E9EC510",
+                "idGrupoPadre":"",
+                "nombreGrupo":"2Feb22",
+                "nombreGrupoPadre":"",
+                "numeroSubgrupos":"2",
+                "numeroLineas":"1",
+                "isGrupo":"1",
+                "cuenta":null,
+                "ciclo":null,
+                "region":null,
+                "numero":null
+            },
+            {
+                "idGrupo":"D515B06E-FA89-4A21-BD7D-C9F717BE44C1",
+                "idGrupoPadre":"",
+                "nombreGrupo":"CUENTAS_NUEVAS",
+                "nombreGrupoPadre":"",
+                "numeroSubgrupos":"0",
+                "numeroLineas":"1",
+                "isGrupo":"1",
+                "cuenta":null,
+                "ciclo":null,
+                "region":null,
+                "numero":null
+            },
+            {
+                "idGrupo":"6E3234F6-9460-420B-9A5F-0C0E8C343547",
+                "idGrupoPadre":"",
+                "nombreGrupo":"Gcia Evaluación de terminales",
+                "nombreGrupoPadre":"",
+                "numeroSubgrupos":"1",
+                "numeroLineas":"4",
+                "isGrupo":"1",
+                "cuenta":null,
+                "ciclo":null,
+                "region":null,
+                "numero":null
+            }
+        ],
+        "pagina":{
+            "page":1,
+            "totalPages":1,
+            "totalRows":3
+        },
+        "pageGroup":{
+            "page":1,
+            "totalPages":1,
+            "totalRows":3
+        }
+    }
+}
